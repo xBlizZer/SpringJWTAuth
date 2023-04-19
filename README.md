@@ -57,12 +57,12 @@ If the registration is successful, the server responds with a JSON object contai
 
 ```json
 {
-    "token": "Created JWT Token",
-    "refreshToken": "Created Refresh Token",
-    "id": 1,
-    "username": "your_username",
-    "email": "your_email",
-    "roles": []
+  "token": "Created JWT Token",
+  "refreshToken": "Created Refresh Token",
+  "id": 1,
+  "username": "your_username",
+  "email": "your_email",
+  "roles": []
 }
 ```
 ### Login Authentication
@@ -79,12 +79,12 @@ If the credentials are valid, the server responds with a JSON object containing 
 
 ```json
 {
-    "token": "Created JWT Token",
-    "refreshToken": "Created Refresh Token",
-    "id": 1,
-    "username": "your_username",
-    "email": "your_email",
-    "roles": []
+  "token": "Created JWT Token",
+  "refreshToken": "Created Refresh Token",
+  "id": 1,
+  "username": "your_username",
+  "email": "your_email",
+  "roles": []
 }
 ```
 
