@@ -110,7 +110,7 @@ Just make a `POST` request to the `/auth/refreshtoken` Endpoint
 
 ```json 
 {
-"refreshToken": "Your stored Refresh Token"
+  "refreshToken": "Your stored Refresh Token"
 }
 ```
 
